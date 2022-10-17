@@ -4,6 +4,8 @@ This project is a chat room with one server and multiple clients. The server pro
 chat room for clients to join. After joining the chat, the clients can send messages to the chat
 room where all chat messages are logged and displayed.
 
+The chatroom is developed using a TCP server 
+
 ### Getting Started
 
 1. Open a terminal and create a chat room by running Server.py
