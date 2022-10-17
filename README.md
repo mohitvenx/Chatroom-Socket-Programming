@@ -23,17 +23,13 @@ python Client.py [name] # Don't forget to declare the client's name
 
 ### Demo
 
-1. First, open 3 terminals and run the code as following.
-
-![3 terminals](/resources/pic1.png)
+1. First, open 3 terminals and run the code.
 
 2. Send messages from Person_A and Person_B to the chat room. Everyone in the room received messages immediately.
 
-![3 terminals](/resources/pic2.png)
+![3 terminals](Chatroom-Demo.png)
 
 ### Contributors
 
-* [Janejira Aroonnual](#)
-* [Tanakorn Pisnupoomi](https://github.com/intaniger)
-* [Pollawat Hongwimol](https://github.com/tongplw/)
-* [Prawsang Chayakulkeeree](https://github.com/prawsang)
+* [Mohit Venkatesh](#)
+* [Suhas Krishnaprasad](#)
